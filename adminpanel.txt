@@ -1,0 +1,13 @@
+Project-ikido – Staging Configuration
+Database Connection
+DB_HOST=192.168.1.20
+DB_PORT=5432
+DB_USER=ikidoadmin
+DB_PASS=admin@$pace928!
+  
+Admin Panel Access
+Username: akumar@ptc.com
+Password: Am!t#1992@12
+  
+API Key
+API_KEY: sk_live_51ikidoKey_Y7jkabc123t571256x13dqet
